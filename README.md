@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Linktree </h1>
 
 <p align="center">
 Este programa foi feito com o auxílio do curso Discover, promovido pela Rocketseat. Além de algumas alterações autorais feitas por mim em cima do projeto original. <br/>
