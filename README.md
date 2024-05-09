@@ -19,7 +19,7 @@ Este programa foi feito com o auxílio do curso Discover, promovido pela Rockets
 <br>
 
 <p align="center" >
-  <img alt="projeto Linktree" src="Projeto/Preview.jpg" width="100%">
+  <img alt="projeto Linktree" src="Preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
